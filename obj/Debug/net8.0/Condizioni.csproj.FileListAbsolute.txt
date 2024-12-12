@@ -1,0 +1,15 @@
+C:\Users\Marik.DESKTOP-RC2L6B1\Documents\csharp\Condizioni\bin\Debug\net8.0\Condizioni.exe
+C:\Users\Marik.DESKTOP-RC2L6B1\Documents\csharp\Condizioni\bin\Debug\net8.0\Condizioni.deps.json
+C:\Users\Marik.DESKTOP-RC2L6B1\Documents\csharp\Condizioni\bin\Debug\net8.0\Condizioni.runtimeconfig.json
+C:\Users\Marik.DESKTOP-RC2L6B1\Documents\csharp\Condizioni\bin\Debug\net8.0\Condizioni.dll
+C:\Users\Marik.DESKTOP-RC2L6B1\Documents\csharp\Condizioni\bin\Debug\net8.0\Condizioni.pdb
+C:\Users\Marik.DESKTOP-RC2L6B1\Documents\csharp\Condizioni\obj\Debug\net8.0\Condizioni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marik.DESKTOP-RC2L6B1\Documents\csharp\Condizioni\obj\Debug\net8.0\Condizioni.AssemblyInfoInputs.cache
+C:\Users\Marik.DESKTOP-RC2L6B1\Documents\csharp\Condizioni\obj\Debug\net8.0\Condizioni.AssemblyInfo.cs
+C:\Users\Marik.DESKTOP-RC2L6B1\Documents\csharp\Condizioni\obj\Debug\net8.0\Condizioni.csproj.CoreCompileInputs.cache
+C:\Users\Marik.DESKTOP-RC2L6B1\Documents\csharp\Condizioni\obj\Debug\net8.0\Condizioni.sourcelink.json
+C:\Users\Marik.DESKTOP-RC2L6B1\Documents\csharp\Condizioni\obj\Debug\net8.0\Condizioni.dll
+C:\Users\Marik.DESKTOP-RC2L6B1\Documents\csharp\Condizioni\obj\Debug\net8.0\refint\Condizioni.dll
+C:\Users\Marik.DESKTOP-RC2L6B1\Documents\csharp\Condizioni\obj\Debug\net8.0\Condizioni.pdb
+C:\Users\Marik.DESKTOP-RC2L6B1\Documents\csharp\Condizioni\obj\Debug\net8.0\Condizioni.genruntimeconfig.cache
+C:\Users\Marik.DESKTOP-RC2L6B1\Documents\csharp\Condizioni\obj\Debug\net8.0\ref\Condizioni.dll

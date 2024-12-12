@@ -1,7 +1,10 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
 
-string test = "primo";
+// scivo una parola a caso nel terminale
+Console.Write("Scrivi qualcosa: ");
+
+//ReadLine Legge ciò che l'utente digita e ne prende il valore
+string test = Console.ReadLine();
 
 if (test == "primo")
     Console.WriteLine("hai scritto primo");
